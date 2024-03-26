@@ -1,4 +1,4 @@
-const textData = {
+export const textData = {
   templateId: "43c20d5080664fdeae244428fa052288",
   sizeId: "e4fee60f9c8a42e8aebf47cf112b8dbf",
   id: "5f7dcaa7-87f6-4432-9357-ca673d8db3aa",
@@ -26,7 +26,7 @@ const textData = {
   cropHeight: 1,
   cropX: 0,
   cropY: 0,
-  fontSize: 66,
+  fontSize: 100,
   fontId: "b3992d0258844563b7c24bdad416d97b",
   letterSpacing: 0,
   lineHeight: 1,
